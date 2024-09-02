@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
 <h3 align="center">Upwork's ⭐Top Rated Plus⭐ Freelancer</h3>
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 My top projects are available at
   [https://www.upwork.com/freelancers/muhammadfarooq101](https://www.upwork.com/freelancers/muhammadfarooq101)
 - 💬 Ask me about **React, Next.js and Node**
 
