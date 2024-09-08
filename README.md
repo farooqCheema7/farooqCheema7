@@ -10,8 +10,6 @@
 - 📄 Know about my experiences
   [https://www.linkedin.com/in/farooq-cheema/](https://www.linkedin.com/in/farooq-cheema/)
 
-- 🌱 I’m currently learning **Spring**
-
 - ⚡ Fun fact **I am Ambivert.**
 
 <h3 align="left">Connect with me:</h3>
